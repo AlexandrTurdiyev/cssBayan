@@ -1,1 +1,6 @@
-
+Заголовок: CSS Bayan
+Раскрывающаяся строка 1: "You can't just copy and paste CSS"
+Раскрывающаяся строка 2: "Keep calm and carry on"
+Раскрывающаяся строка 3: "Work-life balance"
+Раскрывающаяся строка 4: "Dude, where is JS?"
+Раскрывающаяся строка 5: "Relax and take it easy"
